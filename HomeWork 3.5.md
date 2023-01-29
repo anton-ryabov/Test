@@ -8,4 +8,4 @@
 	
 3. Сделайте vagrant destroy на имеющийся инстанс Ubuntu. Замените содержимое Vagrantfile следующим:
 
-	* Решение:  
+	* Решение:  ![image](https://user-images.githubusercontent.com/120400945/215331091-104d086f-c6c8-4a9b-9f5e-f1d4e1a8a442.png)
