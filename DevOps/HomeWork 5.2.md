@@ -33,13 +33,13 @@
 ### Решение:
 
 - VirtualBox 
-- ![img_44.png](img_44.png)
+- ![img_44.png](../img_44.png)
 - Vagrant 
-- ![img_45.png](img_45.png) 
+- ![img_45.png](../img_45.png) 
 - Terraform 
-- ![img_46.png](img_46.png)
+- ![img_46.png](../img_46.png)
 - Ansible
-- ![img_47.png](img_47.png)
+- ![img_47.png](../img_47.png)
 
 ## Задача 4
 
@@ -48,6 +48,6 @@
 ### Решение:
 
 - Создайте виртуальную машину.
-- ![img_48.png](img_48.png)
+- ![img_48.png](../img_48.png)
 - Зайдите внутрь ВМ, убедитесь, что Docker установлен с помощью команды
-- ![img_49.png](img_49.png)
+- ![img_49.png](../img_49.png)
